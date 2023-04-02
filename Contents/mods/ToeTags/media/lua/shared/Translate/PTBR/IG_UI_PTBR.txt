@@ -1,0 +1,32 @@
+IGUI_PTBR = {
+    -- Toe Tag Translations
+    IGUI_ToeTag_ItemName = "Tag de Identificação: %1",
+    IGUI_ToeTag_ItemNameSorted = "[%2] %1",
+    IGUI_ToeTag_Died = "Morto: %1",
+    IGUI_ToeTag_Infected = "Infectado pelo vírus Knox",
+    IGUI_ToeTag_NotInfected = "Não infectado",
+    IGUI_ToeTag_TraitGood = "Traços Positivos:",
+    IGUI_ToeTag_TraitBad = "Traços Negativos:",
+
+    -- Toe Tag Configuration options (if ModOptions installed)
+    IGUI_ToeTag_Options_NameShort = "Toe Tags",
+    IGUI_ToeTag_Options_NameLong = "Toe Tag Opções",
+    IGUI_ToeTag_Options_AdvancedTitle = "Mostrar horas sobrevividas na Tag",
+    IGUI_ToeTag_Options_AdvancedTitle_Tooltip = "Adicionar [hhhhh.mm] para Tags aleatórias.<br>Exemplo: [00420.69] Joe Smith",
+    IGUI_ToeTag_Options_RecordAccount = "Gravar nome do Jogador",
+    IGUI_ToeTag_Options_RecordAccount_Tooltip = "A conta Multiplayer (Não o nome do Usuário)",
+    IGUI_ToeTag_Options_RecordProfession = "Gravar Profissão",
+    IGUI_ToeTag_Options_RecordProfession_Tooltip = "Ex: Instrutor Fitness",
+    IGUI_ToeTag_Options_RecordDeathDate = "Gravar data da morte",
+    IGUI_ToeTag_Options_RecordDeathDate_Tooltip = "Ex: Dom. Agosto Dia 15 10:34 EDT 1993",
+    IGUI_ToeTag_Options_RecordSurvived = "Gravar Tempo de Sobrevivência",
+    IGUI_ToeTag_Options_RecordSurvived_Tooltip = "Ex: 8 meses, 3 dias, 11 horas",
+    IGUI_ToeTag_Options_RecordFavWeapon = "Gravar arma Favorita",
+    IGUI_ToeTag_Options_RecordFavWeapon_Tooltip = "Arma com maior quantidade de mortes",
+    IGUI_ToeTag_Options_RecordKillCount = "Gravar Quantidade de Zumbis abatidos",
+    IGUI_ToeTag_Options_RecordKillCount_Tooltip = "Total de Zumbis que você matou",
+    IGUI_ToeTag_Options_RecordInfection = "Gravar Status de Infecção",
+    IGUI_ToeTag_Options_RecordInfection_Tooltip = "Marcar se jogador foi infectado pelo vírus Knox ",
+    IGUI_ToeTag_Options_RecordTraits = "Gravar Traços",
+    IGUI_ToeTag_Options_RecordTraits_Tooltip = "Gravar traços que o jogador tinha ao morrer",
+}
